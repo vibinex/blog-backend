@@ -60,6 +60,11 @@
       "type": "component",
       "repeatable": false,
       "component": "shared.seo"
+    },
+    "viewCount": {
+      "type": "integer",
+      "default": 0,
+      "min": 0
     }
   }
 }
